@@ -4,7 +4,6 @@ body {
 }
 
 h1 {
-  background-image: image(resources/images/the-flatiron-building.png);
   color: white;
   font-size: 70px;
   font-weight: bold;
@@ -12,4 +11,8 @@ h1 {
 
 ul#main-list li {
   display: block;
+}
+
+.head {
+  background-image: url("../resources/images/the-flatiron-building.png");
 }
